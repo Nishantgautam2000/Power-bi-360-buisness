@@ -1,4 +1,5 @@
 Business-Insights-360
+
 Project Overview
 AtliQ Hardware, a growing electronics company, faced challenges in Latin America. They needed quick, smart data-based decisions. To help, I created an Power BI dashboard for their Finance, Sales, Marketing, and Supply Chain teams, enabling better data analysis and decision-making.
 Project Execution
@@ -18,14 +19,19 @@ This project involves several steps:
 Building Dashboard
 1.Finance View:
 Developed a financial forecasting model that improved the accuracy of budget predictions. Set benchmarks based on last year's performance and target goals for more effective budgeting.
+
 2. Sales view:
 Generated a report on overall sales performance for customers and products. Analyzed sales trends and monitored key performance indicators (KPIs).
-3. Marketing View :
+
+4. Marketing View :
 Developed a report on market performance by region and product, including unit economics. Analyzed market trends and monitored key performance indicators (KPIs).
-4. Supply chain view:
+
+6. Supply chain view:
 Analyzed trends in forecast accuracy percentage, net error percentage, and absolute error percentage. Evaluated key metrics for customers and products requiring supply management.
-5. Executive View :
+
+8. Executive View :
 Created an executive dashboard for real-time performance tracking, displaying revenue by division, customer, product, and channel.
+
 Dashboard Link:
 https://app.powerbi.com/groups/me/reports/12d63b0f-56a0-4fd7-b297-887979de4340/f4f20a40d8358c02ae38?experience=power-bi
 
